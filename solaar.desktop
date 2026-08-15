@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Solaar
+Comment=Manage Logitech keyboards, mice and trackpads.
+Exec=solaar %U
+Icon=solaar
+Terminal=false
+Categories=Utility;Settings;
+
