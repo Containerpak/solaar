@@ -4,7 +4,7 @@
   "name": "Solaar",
   "description": "Manage Logitech keyboards, mice and trackpads.",
   "version": "1.1.19",
-  "image": "ghcr.io/containerpak/solaar@sha256:7f6eb2dc579969535a7ce5ef66911503d3757633e437d34297bb34d7feeafe6e",
+  "image": "ghcr.io/containerpak/solaar@sha256:9c0c136e05ad035e3d6d008f164a05f11133ae30c54c2e432840fbe64d2848c7",
   "binaries": [
     "/usr/bin/solaar"
   ],
